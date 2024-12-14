@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Rawon",
+      "imageUrl": "https://kwatjh.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/sites/4/2022/06/05201527/Screen-Shot-2022-06-05-at-20.15.05.png",
+      "price" : "Rp 30.000,00",
+      "description" :"Rawon disajikan bersama nasi, dilengkapi dengan tauge , telur asin, daun bawang, kerupuk udang, daging sapi goreng (empal), dan sambal"
+    },
+    {
+      "title": "Soto Betawi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/SOTO_BETAWI.jpg/1280px-SOTO_BETAWI.jpg",
+      "price" : "Rp 20.000,00",
+      "description" :"Soto Betawi adalah jenis soto yang berasal dari Jakarta. Kuah kaldu sapi atau daging yang gurih menjadi ciri khas soto Betawi. Selain itu, ada tambahan kentang, taoge, dan emping sebagai pelengkap"
+    },
+    {
+        "title": "Gado-gado",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gado_gado.jpg/1024px-Gado_gado.jpg",
+        "price" : "Rp 15.000,00",
+        "description" :"Gado-gado adalah makanan yang terdiri atas sayur-sayuran, kentang, tempe, tahu, telur rebus, dan lain-lain diberi bumbu sambal kacang dan sebagainya"
+    },
+    {
+        "title": "Papeda",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg/1024px-Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg",
+        "price" : "Rp 15.000,00",
+        "description" :"Papeda adalah makanan tradisional Papua. Papeda dibuat dari tepung sagu, biasa disantap bersama kuah kuning yang terbuat dari ikan tongkol atau ikan mubara dan dibumbui kunyit serta jeruk nipis"
+    },
+    {
+        "title": "Ayam Taliwang",
+        "imageUrl": "https://rinaresep.com/wp-content/uploads/2023/05/Ayam-taliwang.jpeg",
+        "price" : "Rp 30.000,00",
+        "description" :"Bahan dasarnya adalah ayam yang disajikan dengan bumbu-bumbu seperti cabai merah kering, bawang merah, bawang putih, tomat merah, terasi goreng, kencur, gula Jawa, dan garam"
+    },
+    {
+        "title": "Pempek",
+        "imageUrl": "https://salamadian.com/wp-content/uploads/2020/05/makanan-khas-daerah-9.jpg",
+        "price" : "Rp 20.000,00",
+        "description" :"dibuat dari daging ikan belida dan tepung sagu serta bumbu-bumbu, kemudian dibentuk dan direbus"
+    },
+    {
+        "title": "Lumpia",
+        "imageUrl": "https://salamadian.com/wp-content/uploads/2020/05/makanan-khas-daerah-14.jpg",
+        "price" : "Rp 15.000,00",
+        "description" :"Lumpia terdiri dari kulit yang dibuat dari adonan tepung dan telur yang didadar dan adonan isi yang terdiri dari udang dan rebung yang dibumbui"
+    },
+    {
+        "title": "Gudeg",
+        "imageUrl": "https://salamadian.com/wp-content/uploads/2020/05/makanan-khas-daerah-16.jpg",
+        "price" : "Rp 25.000,00",
+        "description" :" Makanan ini dibuat dari nangka muda yang dimasak dengan santan dan bumbu selama berjam-jam hingga empuk. Gudeg disajikan bersama sambal goreng krecek, telur pindang, dan ayam, lalu disiram santan areh"
+    },
+    {
+        "title": "Rendang",
+        "imageUrl": "https://th.bing.com/th/id/OIP.ZdXz7ziNLkIz69pg0ZAgfAHaE8?rs=1&pid=ImgDetMain",
+        "price" : "Rp 25.000,00",
+        "description" :"Rendang adalah daging sapi yang dimasak bersama rempah dan santan dengan api kecil selama berjam-jam. Keunikan dari rendang adalah awet hingga berminggu-minggu meski tanpa bahan pengawet kimia"
+    },
+    {
+        "title": "Batagor",
+        "imageUrl": "https://th.bing.com/th/id/R.afa23302fd3545c6426cfe6922b04135?rik=FPb5qtusG%2fS3OQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-jUrR2sKZWMc%2fVLTNnkLp6-I%2fAAAAAAAABZM%2fnGsW_zJHQv4%2fs1600%2fbatagor.jpg&ehk=UaKcJluAeVg1P2lzl2aXDowsacsIkkjW%2bESnfzTV1Dg%3d&risl=&pid=ImgRaw&r=0",
+        "price" : "Rp 10.000,00",
+        "description" :"makanan khas ini di antaranya adalah bakso-baksoan dari tepung, tahu, dan pangsit, yang semuanya dipotong-potong kecil"
+    }
+  ]
